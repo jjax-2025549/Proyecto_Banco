@@ -1,8 +1,8 @@
 # Tablero Kanban (Trello)
 
-Tablero: **Proyecto_Banco — Sistema Bancario (Taller 2)**
-Enlace: pegar aquí la URL del tablero de Trello.
-Responsable de todas las tarjetas: Julian Jax (trabajo individual).
+Tablero: **Proyecto_Banco**
+Enlace: https://trello.com/invite/b/6af913f99219d2c48b58a976/ATTI623bbc5608f484265b82839de8c883663C479E9A/proyectobanco
+Responsable de todas las tarjetas: Julian Jax.
 
 ## Columnas
 | Columna | Uso |
