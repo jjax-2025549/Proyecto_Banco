@@ -6,8 +6,8 @@
 | Curso / Área | Taller 2 |
 | Grado y sección | Informática 5to, sección IN5CM |
 | Docente | Eduardo Hor |
-| Fecha de inicio | 16/11/2026 |
-| Fecha de entrega | 25/11/2026 (día 10: entrega final y defensa) |
+| Fecha de inicio | 10/11/2026 |
+| Fecha de entrega | 19/11/2026 (día 10: entrega final) |
 | Repositorio | https://github.com/jjax-2025549/Proyecto_Banco |
 | Tablero Kanban | Trello, ver [`15-tablero-trello.md`](15-tablero-trello.md) |
 | Rama de trabajo | `ft-jjax-2025549` → `develop` → `main` |
@@ -34,4 +34,4 @@
 | 10 | Mantenimiento, README, manual, presentación y defensa | Entrega final |
 
 ## Flujo de ramas
-`ft-jjax-2025549` (trabajo diario) → merge a `develop` (integración) → merge a `main` (versión final desplegada en Render).
+`ft-jjax-2025549` (trabajo diario) → merge a `develop` (integración) → merge a `main` .
